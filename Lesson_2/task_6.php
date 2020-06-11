@@ -12,10 +12,14 @@ function power($val, $pow)
     }
 }
 
-echo power(10,3);
+echo power(6, 15);
 
-function power2($val, $pow){
-    return $val*$pow;
-}
+$power = function ($val, $pow) use (&$power) {
+    if ($pow == 0) {
+        return 1;
+    } else {
+        return $val * $power($val, $pow - 1);
+    }
+};
 
-echo "</br>" . power2(10,3);
+echo "</br>" . $power(6, 15);

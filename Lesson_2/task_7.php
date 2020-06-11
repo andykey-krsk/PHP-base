@@ -4,42 +4,88 @@
 22 часа 15 минут
 21 час 43 минуты*/
 
-function goodTime($hours,$minutes){
-
-    switch ($hours){
-        case 0:
-            $h = "ов";
-            break;
-        case 1:
-            $h = "";
-            break;
-        case 2:
-            $h = "а";
-            break;
-        default:
-            $h = "ов";
+function goodTime($hours, $minutes)
+{
+    if ($hours > 23 || $hours < 0) {
+        $error = "Неправильно указаны часы ";
     }
 
-    switch ($minutes){
+    if ($minutes > 59 || $minutes < 0) {
+        $error .= "Неправильно указаны минуты";
+    }
+
+    if ($error){
+        return $error;
+    }
+    $hourEnding = hourEnding($hours);
+    $minuteEnding = minuteEnding($minutes);
+    return "{$hours} час{$hourEnding} {$minutes} минут{$minuteEnding}";
+}
+
+function hourEnding($hours){
+    if ($hours <= 10) {
+        $hoursMarker = $hours % 10;
+    } else{
+        $hoursMarker = $hours % 20;
+    }
+
+    switch ($hoursMarker) {
         case 0:
-            $m = "";
+            $hourEnding = "ов";
             break;
         case 1:
-            $m = "а";
+            $hourEnding = "";
             break;
         case 2:
         case 3:
         case 4:
-            $m = "ы";
+            $hourEnding = "а";
             break;
         default:
-            $m = "";
+            $hourEnding = "ов";
     }
-    return "{$hours} час{$h} {$minutes} минут{$m}";
+    return $hourEnding;
 }
 
-for ($h = 0; $h < 24; $h++){
-    for ($m = 0; $m < 60; $m++){
-        echo "Время " . goodTime($h,$m) . "</br>";
+function minuteEnding($minutes) {
+    $minutesMarker = $minutes;
+
+    if ($minutes > 20){
+        $minutesMarker = $minutes % 20;
+    }
+
+    if ($minutes > 30){
+        $minutesMarker = $minutes % 30;
+    }
+
+    if ($minutes > 40){
+        $minutesMarker = $minutes % 40;
+    }
+
+    if ($minutes > 50){
+        $minutesMarker = $minutes % 50;
+    }
+
+    switch ($minutesMarker) {
+        case 0:
+            $minuteEnding = "";
+            break;
+        case 1:
+            $minuteEnding = "а";
+            break;
+        case 2:
+        case 3:
+        case 4:
+            $minuteEnding = "ы";
+            break;
+        default:
+            $minuteEnding = "";
+    }
+    return $minuteEnding;
+}
+
+for ($h = 0; $h < 24; $h++) {
+    for ($m = 0; $m < 60; $m++) {
+        echo "Местное время " . goodTime($h, $m) . "</br>";
     }
 }
