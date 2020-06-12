@@ -11,21 +11,65 @@ function goodTime($hours, $minutes)
     }
 
     if ($minutes > 59 || $minutes < 0) {
-        $error .= "Неправильно указаны минуты";
+        if ($error) {
+            $error .= "и минуты";
+        } else {
+            $error = "Неправильно указаны минуты";
+        }
     }
 
-    if ($error){
-        return $error;
+    if ($error) {
+        $result = $error;
+    } else {
+        $hourEnding = hourEnding2($hours);
+        $minuteEnding = minuteEnding2($minutes);
+        $result = "{$hours} час{$hourEnding} {$minutes} минут{$minuteEnding}";
     }
-    $hourEnding = hourEnding($hours);
-    $minuteEnding = minuteEnding($minutes);
-    return "{$hours} час{$hourEnding} {$minutes} минут{$minuteEnding}";
+    return $result;
 }
 
-function hourEnding($hours){
+function hourEnding2($hours)
+{
+    if ($hours == 1 || $hours == 21) {
+        $result = "";
+    } elseif (($hours > 1 && $hours < 5) || ($hours > 21 && $hours < 24)) {
+        $result = "а";
+    } else {
+        $result = "ов";
+    }
+    return $result;
+}
+
+function minuteEnding2($minutes)
+{
+    if (($minutes % 10) == 1 && $minutes != 11) {
+        $result = "а";
+    } elseif ((($minutes % 10) > 1 && ($minutes % 10) < 5 && $minutes > 20) || $minutes > 1 && $minutes < 5) {
+        $result = "ы";
+    } else {
+        $result = "";
+    }
+    return $result;
+}
+
+for ($h = 0; $h < 24; $h++) {
+    echo "Местное время " . goodTime($h, 0) . "</br>";
+}
+for ($m = 0; $m < 60; $m++) {
+    echo "Местное время " . goodTime(0, $m) . "</br>";
+}
+
+//тестирование ошибок
+echo "Местное время " . goodTime(25, 70) . "</br>";
+echo "Местное время " . goodTime(21, 70) . "</br>";
+echo "Местное время " . goodTime(25, 0) . "</br>";
+
+//old version
+function hourEnding($hours)
+{
     if ($hours <= 10) {
         $hoursMarker = $hours % 10;
-    } else{
+    } else {
         $hoursMarker = $hours % 20;
     }
 
@@ -47,22 +91,23 @@ function hourEnding($hours){
     return $hourEnding;
 }
 
-function minuteEnding($minutes) {
+function minuteEnding($minutes)
+{
     $minutesMarker = $minutes;
 
-    if ($minutes > 20){
+    if ($minutes > 20) {
         $minutesMarker = $minutes % 20;
     }
 
-    if ($minutes > 30){
+    if ($minutes > 30) {
         $minutesMarker = $minutes % 30;
     }
 
-    if ($minutes > 40){
+    if ($minutes > 40) {
         $minutesMarker = $minutes % 40;
     }
 
-    if ($minutes > 50){
+    if ($minutes > 50) {
         $minutesMarker = $minutes % 50;
     }
 
@@ -82,10 +127,4 @@ function minuteEnding($minutes) {
             $minuteEnding = "";
     }
     return $minuteEnding;
-}
-
-for ($h = 0; $h < 24; $h++) {
-    for ($m = 0; $m < 60; $m++) {
-        echo "Местное время " . goodTime($h, $m) . "</br>";
-    }
 }

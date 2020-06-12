@@ -5,43 +5,25 @@ function mathOperation($arg1, $arg2, $operation),
 В зависимости от переданного значения операции выполнить одну из арифметических операций
 (использовать функции из пункта 3) и вернуть полученное значение (использовать switch).*/
 
-function addition($a, $b)
-{
-    return $a + $b;
-}
+include("task_3_function.php");
 
-function subtraction($a, $b)
-{
-    return $a - $b;
-}
-
-function multiplication($a, $b)
-{
-    return $a * $b;
-}
-
-function division($a, $b)
-{
-    if ($b == 0) {
-        return "Нельзя делить на ноль";
-    }
-    return $a / $b;
-}
+$arg1 = rand(-100, 100);
+$arg2 = rand(-100, 100);
 
 function mathOperation($arg1, $arg2, $operation)
 {
     switch ($operation) {
-        case 1:
-            $result = "Операция сложения {$arg1} + {$arg2} = " . addition($arg1, $arg2);
+        case "+":
+            $result = addition($arg1, $arg2);
             break;
-        case 2:
-            $result = "Операция вычитания {$arg1} - {$arg2} = " . subtraction($arg1, $arg2);
+        case "-":
+            $result = subtraction($arg1, $arg2);
             break;
-        case 3:
-            $result = "Операция умножения {$arg1} * {$arg2} = " . multiplication($arg1, $arg2);
+        case "*":
+            $result = multiplication($arg1, $arg2);
             break;
-        case 4:
-            $result = "Операция деления {$arg1} / {$arg2} = " . division($arg1, $arg2);
+        case "/":
+            $result = division($arg1, $arg2);
             break;
         default:
             $result = "Неверная операция";
@@ -49,4 +31,7 @@ function mathOperation($arg1, $arg2, $operation)
     return $result;
 }
 
-echo mathOperation(3, 4, 4);
+echo "Операция сложения {$arg1} + {$arg2} = " . mathOperation($arg1, $arg2, "+");
+echo "Операция вычитания {$arg1} - {$arg2} = " . mathOperation($arg1, $arg2, "-");
+echo "Операция умножения {$arg1} * {$arg2} = " . mathOperation($arg1, $arg2, "*");
+echo "Операция деления {$arg1} / {$arg2} = " . mathOperation($arg1, $arg2, "/");

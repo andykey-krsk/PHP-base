@@ -3,10 +3,10 @@
 зарендерить как минимум 2 подшаблона через renderTemplate.
 ВАЖНОЕ*/
 
-$menu = renderTemplate("./engine/menu");
-$content = renderTemplate("./engine/about");
+$menu = renderTemplate("./templates/menu");
+$content = renderTemplate("./templates/about");
 
-echo renderTemplate("./engine/site", $content, $menu);
+echo renderTemplate("./templates/site", $content, $menu);
 
 function renderTemplate($page, $content = "", $menu = "")
 {
