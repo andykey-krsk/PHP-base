@@ -4,10 +4,11 @@
 ВАЖНОЕ*/
 
 $menu = renderTemplate("./engine/menu");
+$content = renderTemplate("./engine/about");
 
-echo renderTemplate("./engine/site", $menu);
+echo renderTemplate("./engine/site", $content, $menu);
 
-function renderTemplate($page, $content = "")
+function renderTemplate($page, $content = "", $menu = "")
 {
     ob_start();
     include $page . ".php";
