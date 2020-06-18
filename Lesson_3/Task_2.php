@@ -10,9 +10,10 @@
 
 function evenNumber($number)
 {
+    $result = "";
     if ($number === 0) {
         $result = $number . " - ноль.";
-    } elseif ($number % 2 == 0) {
+    } elseif (($number&1) === 0) {
         $result = $number . " - четное число.";
     } else {
         $result = $number . " - нечетное число.";
@@ -23,6 +24,7 @@ function evenNumber($number)
 
 function whileDo($x, $y)
 {
+    $result = "";
     do {
         $result .= evenNumber($x) . "<br>";
         $x++;
