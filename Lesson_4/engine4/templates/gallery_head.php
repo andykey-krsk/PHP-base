@@ -1,8 +1,3 @@
-﻿<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>Моя галерея</title>
     <link rel="stylesheet" type="text/css" href="./css/style.css"/>
     <script type="text/javascript" src="./js/jquery-1.4.3.min.js"></script>
     <script type="text/javascript" src="./js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
@@ -20,20 +15,3 @@
             });
         });
     </script>
-
-</head>
-<body>
-<div id="main">
-    <div class="post_title"><h2>Моя галерея</h2></div>
-    <div class="gallery">
-        <?= $gallery?>
-        <form method="post" enctype="multipart/form-data">
-            <input type="file" name="myfile">
-            <input type="submit" value="Загрузить" name="load">
-        </form>
-        <?= $message?>
-    </div>
-</div>
-
-</body>
-</html>
