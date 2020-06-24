@@ -1,4 +1,9 @@
-
+#main {
+    width:858px;
+    margin:0 auto;
+    background: #4A4A4A;
+    color: #CCC;
+}
 .gallery img {
 	margin:5px;
 	border:3px solid #fff;
