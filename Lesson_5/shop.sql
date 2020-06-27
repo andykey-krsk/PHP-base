@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Хост: 127.0.0.1:3306
--- Время создания: Июн 26 2020 г., 13:38
+-- Время создания: Июн 27 2020 г., 18:39
 -- Версия сервера: 8.0.19
 -- Версия PHP: 7.4.5
 
@@ -24,7 +24,7 @@ SET time_zone = "+00:00";
 -- --------------------------------------------------------
 
 --
--- Структура таблицы `gallery_img`
+-- Структура таблицы `gallery`
 --
 
 CREATE TABLE `gallery` (
@@ -35,13 +35,13 @@ CREATE TABLE `gallery` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 --
--- Дамп данных таблицы `gallery_img`
+-- Дамп данных таблицы `gallery`
 --
 
 INSERT INTO `gallery` (`gallery_id`, `gallery_filename`, `gallery_like`, `gallery_view`) VALUES
 (16, '01.jpg', 0, 0),
 (17, '02.jpg', 0, 0),
-(18, '03.jpg', 0, 0),
+(18, '03.jpg', 1, 4),
 (19, '04.jpg', 0, 0),
 (20, '05.jpg', 0, 0),
 (21, '06.jpg', 0, 0),
@@ -50,17 +50,17 @@ INSERT INTO `gallery` (`gallery_id`, `gallery_filename`, `gallery_like`, `galler
 (24, '09.jpg', 0, 1),
 (25, '10.jpg', 3, 2),
 (26, '11.jpg', 0, 0),
-(27, '12.jpg', 0, 1),
+(27, '12.jpg', 0, 5),
 (28, '13.jpg', 2, 4),
 (29, '14.jpg', 0, 1),
-(30, '15.jpg', 0, 11);
+(30, '15.jpg', 1, 26);
 
 --
 -- Индексы сохранённых таблиц
 --
 
 --
--- Индексы таблицы `gallery_img`
+-- Индексы таблицы `gallery`
 --
 ALTER TABLE `gallery`
   ADD PRIMARY KEY (`gallery_id`);
@@ -70,10 +70,10 @@ ALTER TABLE `gallery`
 --
 
 --
--- AUTO_INCREMENT для таблицы `gallery_img`
+-- AUTO_INCREMENT для таблицы `gallery`
 --
 ALTER TABLE `gallery`
-  MODIFY `gallery_id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=40;
+  MODIFY `gallery_id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=42;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
