@@ -1,8 +1,6 @@
 <div class="menu">
-    <a href="/gallery/">Галерея</a> - > <?= $image['gallery_filename'] ?>
-    <p><span class="like">Like: <?= $image['gallery_like'] ?></span> <a
-                href="<?= $_SERVER['REQUEST_URI'] ?>&like=like">+</a><br>
-        <span class="view">View: <?= $image['gallery_view'] ?></span></p>
+    <a href="/gallery/">Галерея</a> - > <?= $image[0]['gallery_filename'] ?>
+    <p><span class="view">View: <?= $image[0]['gallery_view'] ?></span></p>
 </div>
 
-<img src="<?= PATH_BIG . $image['gallery_filename'] ?>" width="840">
+<img src="../gallery_img/big/<?=$image[0]['gallery_filename']?>" width="840">

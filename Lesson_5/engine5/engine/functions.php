@@ -11,25 +11,21 @@ function prepareVariables($page)
         case 'image':
             $params['layout'] = 'gallery';
             $params['image'] = getOneImage($_GET['id']);
+            executeSql("UPDATE gallery SET gallery_view = gallery_view + 1 WHERE gallery_id = {$_GET['id']}");
             break;
         case 'gallery':
-            //uploadFile();
+            loadImage();
             $params['layout'] = 'gallery';
             $params['gallery'] = getGallery();
-
             _log($params, 'gallery');
             break;
-
         case 'catalog':
-            //uploadFile();
-            $params['layout'] = 'catalog';
-            $params = [
-                'catalog' => ["Чай", "Печенье", "Вафли"]
-            ];
+            $params['layout'] = 'main';
+            $params['catalog'] = ["Чай", "Печенье", "Вафли"];
             _log($params, 'catalog');
             break;
         case 'news':
-            $params['layout'] = 'news';
+            $params['layout'] = 'main';
             $params['news'] = getNews();
             break;
     }

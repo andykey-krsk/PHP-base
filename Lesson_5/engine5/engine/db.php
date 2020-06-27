@@ -5,7 +5,8 @@
  * static позволяет сохранить состояние и вернуть уже текущее соединение
  * чтобы не делать нового
  */
-function getDb() {
+function getDb()
+{
     static $db = null;
 
     if (is_null($db)) {
@@ -29,12 +30,24 @@ function getAssocResult($sql)
     return $array_result;
 }
 
+function addToDB($filename)
+{
+    $db = getDb();
+    $filename = mysqli_real_escape_string($db, $filename);
+    $sql = "INSERT INTO gallery(`gallery_filename`) VALUES ('$filename')";
+    @mysqli_query($db, $sql) or die(mysqli_error($db));
+}
+
 //update and delete
-function ExecuteSql($sql) {
- //todo добавить выполнить запрос без возврата результатов в виде массива
+function executeSql($sql)
+{
+    //todo добавить выполнить запрос без возврата результатов в виде массива
+    $db = getDb();
+    @mysqli_query($db, $sql) or die(mysqli_error($db));
 }
 
 //При желании можно закрыть соединение (если уж и вызывать, то после render на главной)
-function closeDb() {
+function closeDb()
+{
     mysqli_close(getDb());
 }
