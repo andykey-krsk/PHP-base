@@ -11,7 +11,6 @@ function getDb() {
     if (is_null($db)) {
         $db = @mysqli_connect(HOST, USER, PASS, DB) or die("Could not connect: " . mysqli_connect_error());
     }
-
     return $db;
 }
 
@@ -32,7 +31,7 @@ function getAssocResult($sql)
 
 //update and delete
 function ExecuteSql($sql) {
- //todo добавить выполнить запрос без возврата результатов  в виде массива
+ //todo добавить выполнить запрос без возврата результатов в виде массива
 }
 
 //При желании можно закрыть соединение (если уж и вызывать, то после render на главной)

@@ -4,8 +4,8 @@
 просмотр конкретной фотографии (изображение оригинального размера)
 по ее ID в базе данных.*/
 
-define('PATH_BIG', './gallery/big/');
-define('PATH_SMALL', './gallery/small/');
+define('PATH_BIG', './gallery_img/big/');
+define('PATH_SMALL', './gallery_img/small/');
 
 include_once "db.php";
 
@@ -33,7 +33,7 @@ if (isset($_POST['load'])) {
         if (move_uploaded_file($_FILES["myfile"]["tmp_name"], $path_big)) {
 
             $filename = mysqli_real_escape_string($db, $_FILES["myfile"]["name"]);
-            mysqli_query($db, "INSERT INTO gallery(`gallery_filename`) VALUES ('$filename')");
+            mysqli_query($db, "INSERT INTO gallery_img(`gallery_filename`) VALUES ('$filename')");
             $im = imagecreatefromjpeg($path_big);
             $im = imagescale($im, 150, -1,);
             imagejpeg($im, $path_small);
@@ -47,6 +47,6 @@ if (isset($_POST['load'])) {
     }
 }
 
-$image_arr = mysqli_query($db, "SELECT * FROM gallery ORDER BY gallery_view DESC");
+$image_arr = mysqli_query($db, "SELECT * FROM gallery_img ORDER BY gallery_view DESC");
 
 include "mygallery.php";

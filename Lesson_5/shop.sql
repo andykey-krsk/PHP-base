@@ -24,7 +24,7 @@ SET time_zone = "+00:00";
 -- --------------------------------------------------------
 
 --
--- Структура таблицы `gallery`
+-- Структура таблицы `gallery_img`
 --
 
 CREATE TABLE `gallery` (
@@ -35,7 +35,7 @@ CREATE TABLE `gallery` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 --
--- Дамп данных таблицы `gallery`
+-- Дамп данных таблицы `gallery_img`
 --
 
 INSERT INTO `gallery` (`gallery_id`, `gallery_filename`, `gallery_like`, `gallery_view`) VALUES
@@ -60,7 +60,7 @@ INSERT INTO `gallery` (`gallery_id`, `gallery_filename`, `gallery_like`, `galler
 --
 
 --
--- Индексы таблицы `gallery`
+-- Индексы таблицы `gallery_img`
 --
 ALTER TABLE `gallery`
   ADD PRIMARY KEY (`gallery_id`);
@@ -70,7 +70,7 @@ ALTER TABLE `gallery`
 --
 
 --
--- AUTO_INCREMENT для таблицы `gallery`
+-- AUTO_INCREMENT для таблицы `gallery_img`
 --
 ALTER TABLE `gallery`
   MODIFY `gallery_id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=40;

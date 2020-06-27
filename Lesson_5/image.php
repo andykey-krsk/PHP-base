@@ -2,7 +2,7 @@
 //var_dump($_SERVER['REQUEST_URI']);
 //die;
 define('ROOT', $_SERVER['DOCUMENT_ROOT']);
-define('PATH_BIG', './gallery/big/');
+define('PATH_BIG', './gallery_img/big/');
 
 if (!isset($_GET['id'])) {
     header("Location: Task_1.php");
@@ -16,12 +16,12 @@ $like = $_GET['like'];
 include "db.php";
 
 if ($like == 'like'){
-    mysqli_query($db, "UPDATE gallery SET gallery_like = gallery_like + 1 WHERE gallery_id = {$id}");
+    mysqli_query($db, "UPDATE gallery_img SET gallery_like = gallery_like + 1 WHERE gallery_id = {$id}");
 } else {
-    mysqli_query($db, "UPDATE gallery SET gallery_view = gallery_view + 1 WHERE gallery_id = {$id}");
+    mysqli_query($db, "UPDATE gallery_img SET gallery_view = gallery_view + 1 WHERE gallery_id = {$id}");
 }
 
-$item = mysqli_fetch_assoc(mysqli_query($db, "SELECT * FROM gallery WHERE gallery_id = {$id}"));
+$item = mysqli_fetch_assoc(mysqli_query($db, "SELECT * FROM gallery_img WHERE gallery_id = {$id}"));
 
 if ($item['gallery_filename'] == null) {
     header("Location: Task_1.php");
