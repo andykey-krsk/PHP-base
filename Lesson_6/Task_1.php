@@ -4,3 +4,8 @@
 Оставьте введенные значения в форме, и выбранную операцию тоже!
 */
 
+include "functions.php";
+
+include "get.php";
+
+include "form1.php";
