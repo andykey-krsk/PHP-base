@@ -9,9 +9,13 @@ function prepareVariables($page)
         case 'index':
             break;
         case 'image':
+            if (isset($_POST['feedback'])){
+                addFeedback($_POST);
+            }
             $params['layout'] = 'gallery';
             $params['image'] = getOneImage($_GET['id']);
             executeSql("UPDATE gallery SET gallery_view = gallery_view + 1 WHERE gallery_id = {$_GET['id']}");
+            $params['feedback'] = getFeedback($page, $_GET['id']);
             break;
         case 'gallery':
             loadImage();
@@ -21,12 +25,32 @@ function prepareVariables($page)
             break;
         case 'catalog':
             $params['layout'] = 'main';
-            $params['catalog'] = ["Чай", "Печенье", "Вафли"];
+            $params['catalog'] = getCatalog();
             _log($params, 'catalog');
+            break;
+        case 'item':
+            if (isset($_POST['feedback'])){
+                addFeedback($_POST);
+            }
+            $params['layout'] = 'main';
+            $params['item'] = getItem($_GET['id']);
+            $params['feedback'] = getFeedback($page, $_GET['id']);
             break;
         case 'news':
             $params['layout'] = 'main';
             $params['news'] = getNews();
+            _log($params, 'news');
+            break;
+        case 'newscontent':
+            $params['layout'] = 'main';
+            $params['newscontent'] = getNewsContent($_GET['id']);
+            break;
+        case 'feedback':
+            if (isset($_POST['feedback'])){
+                addFeedback($_POST);
+            }
+            $params['layout'] = 'main';
+            $params['feedback'] = getFeedback($page, 0);
             break;
     }
     return $params;

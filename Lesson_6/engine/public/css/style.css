@@ -36,3 +36,10 @@ a:hover img {
 p{
 	margin-top: 0px;
 }
+
+.description {
+	display: inline-block;
+}
+.catalog {
+	float: left;
+}

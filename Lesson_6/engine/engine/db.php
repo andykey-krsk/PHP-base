@@ -41,7 +41,6 @@ function addToDB($filename)
 //update and delete
 function executeSql($sql)
 {
-    //todo добавить выполнить запрос без возврата результатов в виде массива
     $db = getDb();
     @mysqli_query($db, $sql) or die(mysqli_error($db));
 }

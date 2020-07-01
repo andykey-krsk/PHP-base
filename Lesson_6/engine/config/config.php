@@ -18,3 +18,5 @@ include ROOT . "/engine/news.php";
 include ROOT . "/engine/log.php";
 include ROOT . "/engine/upload.php";
 include ROOT . "/engine/gallery.php";
+include ROOT . "/engine/catalog.php";
+include ROOT . "/engine/feedback.php";

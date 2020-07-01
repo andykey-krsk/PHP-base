@@ -10,4 +10,7 @@
         <input type="submit" value="Загрузить" name="load">
     </form>
 
-<?= $message ?>
+<?= $message?>
+
+
+
