@@ -1,11 +1,12 @@
 <? if (isset($feedback[0])):
     foreach ($feedback as $item): ?>
-        <p><strong><?= $item['feedback_name'] ?></strong><a href="/feedback/?id=<?= $item['id'] ?>&del">[X]</a></p>
+        <p><strong><?= $item['feedback_name'] ?></strong><a href="/<?= $page ?>/?id=<?= $item['id'] ?>&del">[X]</a>
+        </p>
         <p><?= $item['content'] ?></p>
     <? endforeach;
 else:?>
     <p>Пока нет отзывов</p>
-<? endif?>
+<? endif ?>
 
 <br>
 <hr>

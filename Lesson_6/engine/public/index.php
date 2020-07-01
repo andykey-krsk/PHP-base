@@ -7,10 +7,6 @@ include $_SERVER['DOCUMENT_ROOT'] . "/../config/config.php";
 //Читаем параметр page из url, чтобы определить, какую страницу-шаблон
 //хочет увидеть пользователь, по умолчанию это будет index
 
-if (isset($_GET['del'])){
-    delFeedback((int)$_GET['id']);
-}
-
 $arr_message = [
     '1' => "Файл загружен",
     '2' => "Ошибка закгузки файла",

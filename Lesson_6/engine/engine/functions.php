@@ -4,6 +4,10 @@
 //для подстановки их в соотвествующий шаблон
 function prepareVariables($page)
 {
+    if (isset($_GET['del'])){
+        delFeedback((int)$_GET['id']);
+    }
+
     $params['layout'] = 'main';;
     switch ($page) {
         case 'index':
