@@ -2,24 +2,19 @@
 
 //Для каждой страницы готовим массив со своим набором переменных
 //для подстановки их в соотвествующий шаблон
-function prepareVariables($page)
+function prepareVariables($page, $action)
 {
-    if (isset($_GET['del'])){
-        delFeedback((int)$_GET['id']);
-    }
-
     $params['layout'] = 'main';;
     switch ($page) {
         case 'index':
             break;
         case 'image':
-            if (isset($_POST['feedback'])){
-                addFeedback($_POST);
-            }
+            doFeedBackAction($params, $action);
             $params['layout'] = 'gallery';
             $params['image'] = getOneImage($_GET['id']);
             executeSql("UPDATE gallery SET gallery_view = gallery_view + 1 WHERE gallery_id = {$_GET['id']}");
             $params['feedback'] = getFeedback($page, $_GET['id']);
+            $params['page_id'] = $_GET['id'];
             break;
         case 'gallery':
             loadImage();
@@ -33,12 +28,11 @@ function prepareVariables($page)
             _log($params, 'catalog');
             break;
         case 'item':
-            if (isset($_POST['feedback'])){
-                addFeedback($_POST);
-            }
+            doFeedBackAction($params, $action);
             $params['layout'] = 'main';
             $params['item'] = getItem($_GET['id']);
             $params['feedback'] = getFeedback($page, $_GET['id']);
+            $params['page_id'] = $_GET['id'];
             break;
         case 'news':
             $params['layout'] = 'main';
@@ -50,11 +44,10 @@ function prepareVariables($page)
             $params['newscontent'] = getNewsContent($_GET['id']);
             break;
         case 'feedback':
-            if (isset($_POST['feedback'])){
-                addFeedback($_POST);
-            }
+            doFeedBackAction($params, $action);
             $params['layout'] = 'main';
             $params['feedback'] = getFeedback($page, 0);
+            $params['page_id'] = 0;
             break;
     }
     return $params;

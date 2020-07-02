@@ -26,7 +26,7 @@ if ($url_array[1] == "") {
     $page = $url_array[1];
 }
 
-$params = prepareVariables($page);
+$params = prepareVariables($page, $_GET['action']);
 
 
 //Вызываем рендер, и передаем в него имя шаблона и массив подстановок
