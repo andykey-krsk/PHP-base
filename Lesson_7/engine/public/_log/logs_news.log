@@ -22,3 +22,49 @@ Array
 
 
 
+### 04.07.2020 13:09:22
+Array
+(
+    [layout] => main
+    [session_id] => 0
+    [basketCount] => 4
+    [news] => Array
+        (
+        )
+
+)
+
+
+
+### 04.07.2020 13:09:27
+Array
+(
+    [layout] => main
+    [auth] => 1
+    [user] => admin
+    [session_id] => 0
+    [basketCount] => 4
+    [news] => Array
+        (
+        )
+
+)
+
+
+
+### 04.07.2020 13:09:29
+Array
+(
+    [layout] => main
+    [auth] => 1
+    [user] => admin
+    [session_id] => 0
+    [basketCount] => 4
+    [news] => Array
+        (
+        )
+
+)
+
+
+

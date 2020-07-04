@@ -26028,3 +26028,1890 @@ Array
 
 
 
+### 03.07.2020 08:37:54
+Array
+(
+    [layout] => gallery
+    [session_id] => 0
+    [basketCount] => 4
+    [gallery] => Array
+        (
+            [0] => Array
+                (
+                    [gallery_id] => 30
+                    [gallery_filename] => 15.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 54
+                )
+
+            [1] => Array
+                (
+                    [gallery_id] => 27
+                    [gallery_filename] => 12.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 5
+                )
+
+            [2] => Array
+                (
+                    [gallery_id] => 18
+                    [gallery_filename] => 03.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 4
+                )
+
+            [3] => Array
+                (
+                    [gallery_id] => 28
+                    [gallery_filename] => 13.jpg
+                    [gallery_like] => 2
+                    [gallery_view] => 4
+                )
+
+            [4] => Array
+                (
+                    [gallery_id] => 22
+                    [gallery_filename] => 07.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 2
+                )
+
+            [5] => Array
+                (
+                    [gallery_id] => 25
+                    [gallery_filename] => 10.jpg
+                    [gallery_like] => 3
+                    [gallery_view] => 2
+                )
+
+            [6] => Array
+                (
+                    [gallery_id] => 24
+                    [gallery_filename] => 09.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 1
+                )
+
+            [7] => Array
+                (
+                    [gallery_id] => 29
+                    [gallery_filename] => 14.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 1
+                )
+
+            [8] => Array
+                (
+                    [gallery_id] => 16
+                    [gallery_filename] => 01.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [9] => Array
+                (
+                    [gallery_id] => 17
+                    [gallery_filename] => 02.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [10] => Array
+                (
+                    [gallery_id] => 19
+                    [gallery_filename] => 04.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [11] => Array
+                (
+                    [gallery_id] => 20
+                    [gallery_filename] => 05.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [12] => Array
+                (
+                    [gallery_id] => 21
+                    [gallery_filename] => 06.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [13] => Array
+                (
+                    [gallery_id] => 23
+                    [gallery_filename] => 08.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [14] => Array
+                (
+                    [gallery_id] => 26
+                    [gallery_filename] => 11.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+        )
+
+)
+
+
+
+### 03.07.2020 09:46:47
+Array
+(
+    [layout] => gallery
+    [session_id] => 0
+    [basketCount] => 5
+    [gallery] => Array
+        (
+            [0] => Array
+                (
+                    [gallery_id] => 30
+                    [gallery_filename] => 15.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 54
+                )
+
+            [1] => Array
+                (
+                    [gallery_id] => 27
+                    [gallery_filename] => 12.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 5
+                )
+
+            [2] => Array
+                (
+                    [gallery_id] => 18
+                    [gallery_filename] => 03.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 4
+                )
+
+            [3] => Array
+                (
+                    [gallery_id] => 28
+                    [gallery_filename] => 13.jpg
+                    [gallery_like] => 2
+                    [gallery_view] => 4
+                )
+
+            [4] => Array
+                (
+                    [gallery_id] => 22
+                    [gallery_filename] => 07.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 2
+                )
+
+            [5] => Array
+                (
+                    [gallery_id] => 25
+                    [gallery_filename] => 10.jpg
+                    [gallery_like] => 3
+                    [gallery_view] => 2
+                )
+
+            [6] => Array
+                (
+                    [gallery_id] => 24
+                    [gallery_filename] => 09.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 1
+                )
+
+            [7] => Array
+                (
+                    [gallery_id] => 29
+                    [gallery_filename] => 14.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 1
+                )
+
+            [8] => Array
+                (
+                    [gallery_id] => 16
+                    [gallery_filename] => 01.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [9] => Array
+                (
+                    [gallery_id] => 17
+                    [gallery_filename] => 02.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [10] => Array
+                (
+                    [gallery_id] => 19
+                    [gallery_filename] => 04.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [11] => Array
+                (
+                    [gallery_id] => 20
+                    [gallery_filename] => 05.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [12] => Array
+                (
+                    [gallery_id] => 21
+                    [gallery_filename] => 06.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [13] => Array
+                (
+                    [gallery_id] => 23
+                    [gallery_filename] => 08.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [14] => Array
+                (
+                    [gallery_id] => 26
+                    [gallery_filename] => 11.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+        )
+
+)
+
+
+
+### 03.07.2020 10:04:40
+Array
+(
+    [layout] => gallery
+    [session_id] => 0
+    [gallery] => Array
+        (
+            [0] => Array
+                (
+                    [gallery_id] => 30
+                    [gallery_filename] => 15.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 54
+                )
+
+            [1] => Array
+                (
+                    [gallery_id] => 27
+                    [gallery_filename] => 12.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 5
+                )
+
+            [2] => Array
+                (
+                    [gallery_id] => 18
+                    [gallery_filename] => 03.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 4
+                )
+
+            [3] => Array
+                (
+                    [gallery_id] => 28
+                    [gallery_filename] => 13.jpg
+                    [gallery_like] => 2
+                    [gallery_view] => 4
+                )
+
+            [4] => Array
+                (
+                    [gallery_id] => 22
+                    [gallery_filename] => 07.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 2
+                )
+
+            [5] => Array
+                (
+                    [gallery_id] => 25
+                    [gallery_filename] => 10.jpg
+                    [gallery_like] => 3
+                    [gallery_view] => 2
+                )
+
+            [6] => Array
+                (
+                    [gallery_id] => 24
+                    [gallery_filename] => 09.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 1
+                )
+
+            [7] => Array
+                (
+                    [gallery_id] => 29
+                    [gallery_filename] => 14.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 1
+                )
+
+            [8] => Array
+                (
+                    [gallery_id] => 16
+                    [gallery_filename] => 01.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [9] => Array
+                (
+                    [gallery_id] => 17
+                    [gallery_filename] => 02.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [10] => Array
+                (
+                    [gallery_id] => 19
+                    [gallery_filename] => 04.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [11] => Array
+                (
+                    [gallery_id] => 20
+                    [gallery_filename] => 05.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [12] => Array
+                (
+                    [gallery_id] => 21
+                    [gallery_filename] => 06.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [13] => Array
+                (
+                    [gallery_id] => 23
+                    [gallery_filename] => 08.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [14] => Array
+                (
+                    [gallery_id] => 26
+                    [gallery_filename] => 11.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+        )
+
+)
+
+
+
+### 03.07.2020 13:27:56
+Array
+(
+    [layout] => gallery
+    [session_id] => 0
+    [basketCount] => 3
+    [gallery] => Array
+        (
+            [0] => Array
+                (
+                    [gallery_id] => 30
+                    [gallery_filename] => 15.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 54
+                )
+
+            [1] => Array
+                (
+                    [gallery_id] => 27
+                    [gallery_filename] => 12.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 5
+                )
+
+            [2] => Array
+                (
+                    [gallery_id] => 18
+                    [gallery_filename] => 03.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 4
+                )
+
+            [3] => Array
+                (
+                    [gallery_id] => 28
+                    [gallery_filename] => 13.jpg
+                    [gallery_like] => 2
+                    [gallery_view] => 4
+                )
+
+            [4] => Array
+                (
+                    [gallery_id] => 22
+                    [gallery_filename] => 07.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 2
+                )
+
+            [5] => Array
+                (
+                    [gallery_id] => 25
+                    [gallery_filename] => 10.jpg
+                    [gallery_like] => 3
+                    [gallery_view] => 2
+                )
+
+            [6] => Array
+                (
+                    [gallery_id] => 24
+                    [gallery_filename] => 09.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 1
+                )
+
+            [7] => Array
+                (
+                    [gallery_id] => 29
+                    [gallery_filename] => 14.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 1
+                )
+
+            [8] => Array
+                (
+                    [gallery_id] => 16
+                    [gallery_filename] => 01.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [9] => Array
+                (
+                    [gallery_id] => 17
+                    [gallery_filename] => 02.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [10] => Array
+                (
+                    [gallery_id] => 19
+                    [gallery_filename] => 04.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [11] => Array
+                (
+                    [gallery_id] => 20
+                    [gallery_filename] => 05.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [12] => Array
+                (
+                    [gallery_id] => 21
+                    [gallery_filename] => 06.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [13] => Array
+                (
+                    [gallery_id] => 23
+                    [gallery_filename] => 08.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [14] => Array
+                (
+                    [gallery_id] => 26
+                    [gallery_filename] => 11.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 09:51:18
+Array
+(
+    [layout] => gallery
+    [session_id] => 0
+    [basketCount] => 4
+    [gallery] => Array
+        (
+            [0] => Array
+                (
+                    [gallery_id] => 30
+                    [gallery_filename] => 15.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 54
+                )
+
+            [1] => Array
+                (
+                    [gallery_id] => 27
+                    [gallery_filename] => 12.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 5
+                )
+
+            [2] => Array
+                (
+                    [gallery_id] => 18
+                    [gallery_filename] => 03.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 4
+                )
+
+            [3] => Array
+                (
+                    [gallery_id] => 28
+                    [gallery_filename] => 13.jpg
+                    [gallery_like] => 2
+                    [gallery_view] => 4
+                )
+
+            [4] => Array
+                (
+                    [gallery_id] => 22
+                    [gallery_filename] => 07.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 2
+                )
+
+            [5] => Array
+                (
+                    [gallery_id] => 25
+                    [gallery_filename] => 10.jpg
+                    [gallery_like] => 3
+                    [gallery_view] => 2
+                )
+
+            [6] => Array
+                (
+                    [gallery_id] => 24
+                    [gallery_filename] => 09.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 1
+                )
+
+            [7] => Array
+                (
+                    [gallery_id] => 29
+                    [gallery_filename] => 14.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 1
+                )
+
+            [8] => Array
+                (
+                    [gallery_id] => 16
+                    [gallery_filename] => 01.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [9] => Array
+                (
+                    [gallery_id] => 17
+                    [gallery_filename] => 02.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [10] => Array
+                (
+                    [gallery_id] => 19
+                    [gallery_filename] => 04.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [11] => Array
+                (
+                    [gallery_id] => 20
+                    [gallery_filename] => 05.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [12] => Array
+                (
+                    [gallery_id] => 21
+                    [gallery_filename] => 06.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [13] => Array
+                (
+                    [gallery_id] => 23
+                    [gallery_filename] => 08.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [14] => Array
+                (
+                    [gallery_id] => 26
+                    [gallery_filename] => 11.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 11:11:16
+Array
+(
+    [layout] => gallery
+    [auth] => 1
+    [user] => admin
+    [session_id] => 0
+    [basketCount] => 4
+    [gallery] => Array
+        (
+            [0] => Array
+                (
+                    [gallery_id] => 30
+                    [gallery_filename] => 15.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 54
+                )
+
+            [1] => Array
+                (
+                    [gallery_id] => 27
+                    [gallery_filename] => 12.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 5
+                )
+
+            [2] => Array
+                (
+                    [gallery_id] => 18
+                    [gallery_filename] => 03.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 4
+                )
+
+            [3] => Array
+                (
+                    [gallery_id] => 28
+                    [gallery_filename] => 13.jpg
+                    [gallery_like] => 2
+                    [gallery_view] => 4
+                )
+
+            [4] => Array
+                (
+                    [gallery_id] => 22
+                    [gallery_filename] => 07.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 2
+                )
+
+            [5] => Array
+                (
+                    [gallery_id] => 25
+                    [gallery_filename] => 10.jpg
+                    [gallery_like] => 3
+                    [gallery_view] => 2
+                )
+
+            [6] => Array
+                (
+                    [gallery_id] => 24
+                    [gallery_filename] => 09.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 1
+                )
+
+            [7] => Array
+                (
+                    [gallery_id] => 29
+                    [gallery_filename] => 14.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 1
+                )
+
+            [8] => Array
+                (
+                    [gallery_id] => 16
+                    [gallery_filename] => 01.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [9] => Array
+                (
+                    [gallery_id] => 17
+                    [gallery_filename] => 02.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [10] => Array
+                (
+                    [gallery_id] => 19
+                    [gallery_filename] => 04.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [11] => Array
+                (
+                    [gallery_id] => 20
+                    [gallery_filename] => 05.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [12] => Array
+                (
+                    [gallery_id] => 21
+                    [gallery_filename] => 06.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [13] => Array
+                (
+                    [gallery_id] => 23
+                    [gallery_filename] => 08.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [14] => Array
+                (
+                    [gallery_id] => 26
+                    [gallery_filename] => 11.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 11:11:53
+Array
+(
+    [layout] => gallery
+    [auth] => 1
+    [user] => admin
+    [session_id] => 0
+    [basketCount] => 4
+    [gallery] => Array
+        (
+            [0] => Array
+                (
+                    [gallery_id] => 30
+                    [gallery_filename] => 15.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 54
+                )
+
+            [1] => Array
+                (
+                    [gallery_id] => 27
+                    [gallery_filename] => 12.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 5
+                )
+
+            [2] => Array
+                (
+                    [gallery_id] => 18
+                    [gallery_filename] => 03.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 4
+                )
+
+            [3] => Array
+                (
+                    [gallery_id] => 28
+                    [gallery_filename] => 13.jpg
+                    [gallery_like] => 2
+                    [gallery_view] => 4
+                )
+
+            [4] => Array
+                (
+                    [gallery_id] => 22
+                    [gallery_filename] => 07.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 2
+                )
+
+            [5] => Array
+                (
+                    [gallery_id] => 25
+                    [gallery_filename] => 10.jpg
+                    [gallery_like] => 3
+                    [gallery_view] => 2
+                )
+
+            [6] => Array
+                (
+                    [gallery_id] => 24
+                    [gallery_filename] => 09.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 1
+                )
+
+            [7] => Array
+                (
+                    [gallery_id] => 29
+                    [gallery_filename] => 14.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 1
+                )
+
+            [8] => Array
+                (
+                    [gallery_id] => 16
+                    [gallery_filename] => 01.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [9] => Array
+                (
+                    [gallery_id] => 17
+                    [gallery_filename] => 02.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [10] => Array
+                (
+                    [gallery_id] => 19
+                    [gallery_filename] => 04.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [11] => Array
+                (
+                    [gallery_id] => 20
+                    [gallery_filename] => 05.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [12] => Array
+                (
+                    [gallery_id] => 21
+                    [gallery_filename] => 06.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [13] => Array
+                (
+                    [gallery_id] => 23
+                    [gallery_filename] => 08.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [14] => Array
+                (
+                    [gallery_id] => 26
+                    [gallery_filename] => 11.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 12:43:55
+Array
+(
+    [layout] => gallery
+    [auth] => 1
+    [user] => admin
+    [session_id] => 0
+    [basketCount] => 4
+    [gallery] => Array
+        (
+            [0] => Array
+                (
+                    [gallery_id] => 30
+                    [gallery_filename] => 15.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 54
+                )
+
+            [1] => Array
+                (
+                    [gallery_id] => 27
+                    [gallery_filename] => 12.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 5
+                )
+
+            [2] => Array
+                (
+                    [gallery_id] => 18
+                    [gallery_filename] => 03.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 4
+                )
+
+            [3] => Array
+                (
+                    [gallery_id] => 28
+                    [gallery_filename] => 13.jpg
+                    [gallery_like] => 2
+                    [gallery_view] => 4
+                )
+
+            [4] => Array
+                (
+                    [gallery_id] => 22
+                    [gallery_filename] => 07.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 2
+                )
+
+            [5] => Array
+                (
+                    [gallery_id] => 25
+                    [gallery_filename] => 10.jpg
+                    [gallery_like] => 3
+                    [gallery_view] => 2
+                )
+
+            [6] => Array
+                (
+                    [gallery_id] => 24
+                    [gallery_filename] => 09.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 1
+                )
+
+            [7] => Array
+                (
+                    [gallery_id] => 29
+                    [gallery_filename] => 14.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 1
+                )
+
+            [8] => Array
+                (
+                    [gallery_id] => 16
+                    [gallery_filename] => 01.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [9] => Array
+                (
+                    [gallery_id] => 17
+                    [gallery_filename] => 02.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [10] => Array
+                (
+                    [gallery_id] => 19
+                    [gallery_filename] => 04.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [11] => Array
+                (
+                    [gallery_id] => 20
+                    [gallery_filename] => 05.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [12] => Array
+                (
+                    [gallery_id] => 21
+                    [gallery_filename] => 06.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [13] => Array
+                (
+                    [gallery_id] => 23
+                    [gallery_filename] => 08.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [14] => Array
+                (
+                    [gallery_id] => 26
+                    [gallery_filename] => 11.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 12:44:01
+Array
+(
+    [layout] => gallery
+    [auth] => 1
+    [user] => admin
+    [session_id] => 0
+    [basketCount] => 4
+    [gallery] => Array
+        (
+            [0] => Array
+                (
+                    [gallery_id] => 30
+                    [gallery_filename] => 15.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 54
+                )
+
+            [1] => Array
+                (
+                    [gallery_id] => 27
+                    [gallery_filename] => 12.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 5
+                )
+
+            [2] => Array
+                (
+                    [gallery_id] => 18
+                    [gallery_filename] => 03.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 4
+                )
+
+            [3] => Array
+                (
+                    [gallery_id] => 28
+                    [gallery_filename] => 13.jpg
+                    [gallery_like] => 2
+                    [gallery_view] => 4
+                )
+
+            [4] => Array
+                (
+                    [gallery_id] => 22
+                    [gallery_filename] => 07.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 2
+                )
+
+            [5] => Array
+                (
+                    [gallery_id] => 25
+                    [gallery_filename] => 10.jpg
+                    [gallery_like] => 3
+                    [gallery_view] => 2
+                )
+
+            [6] => Array
+                (
+                    [gallery_id] => 24
+                    [gallery_filename] => 09.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 1
+                )
+
+            [7] => Array
+                (
+                    [gallery_id] => 29
+                    [gallery_filename] => 14.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 1
+                )
+
+            [8] => Array
+                (
+                    [gallery_id] => 16
+                    [gallery_filename] => 01.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [9] => Array
+                (
+                    [gallery_id] => 17
+                    [gallery_filename] => 02.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [10] => Array
+                (
+                    [gallery_id] => 19
+                    [gallery_filename] => 04.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [11] => Array
+                (
+                    [gallery_id] => 20
+                    [gallery_filename] => 05.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [12] => Array
+                (
+                    [gallery_id] => 21
+                    [gallery_filename] => 06.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [13] => Array
+                (
+                    [gallery_id] => 23
+                    [gallery_filename] => 08.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [14] => Array
+                (
+                    [gallery_id] => 26
+                    [gallery_filename] => 11.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 13:09:34
+Array
+(
+    [layout] => gallery
+    [auth] => 1
+    [user] => admin
+    [session_id] => 0
+    [basketCount] => 4
+    [gallery] => Array
+        (
+            [0] => Array
+                (
+                    [gallery_id] => 30
+                    [gallery_filename] => 15.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 54
+                )
+
+            [1] => Array
+                (
+                    [gallery_id] => 27
+                    [gallery_filename] => 12.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 5
+                )
+
+            [2] => Array
+                (
+                    [gallery_id] => 18
+                    [gallery_filename] => 03.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 4
+                )
+
+            [3] => Array
+                (
+                    [gallery_id] => 28
+                    [gallery_filename] => 13.jpg
+                    [gallery_like] => 2
+                    [gallery_view] => 4
+                )
+
+            [4] => Array
+                (
+                    [gallery_id] => 22
+                    [gallery_filename] => 07.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 2
+                )
+
+            [5] => Array
+                (
+                    [gallery_id] => 25
+                    [gallery_filename] => 10.jpg
+                    [gallery_like] => 3
+                    [gallery_view] => 2
+                )
+
+            [6] => Array
+                (
+                    [gallery_id] => 24
+                    [gallery_filename] => 09.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 1
+                )
+
+            [7] => Array
+                (
+                    [gallery_id] => 29
+                    [gallery_filename] => 14.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 1
+                )
+
+            [8] => Array
+                (
+                    [gallery_id] => 16
+                    [gallery_filename] => 01.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [9] => Array
+                (
+                    [gallery_id] => 17
+                    [gallery_filename] => 02.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [10] => Array
+                (
+                    [gallery_id] => 19
+                    [gallery_filename] => 04.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [11] => Array
+                (
+                    [gallery_id] => 20
+                    [gallery_filename] => 05.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [12] => Array
+                (
+                    [gallery_id] => 21
+                    [gallery_filename] => 06.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [13] => Array
+                (
+                    [gallery_id] => 23
+                    [gallery_filename] => 08.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [14] => Array
+                (
+                    [gallery_id] => 26
+                    [gallery_filename] => 11.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 13:09:38
+Array
+(
+    [layout] => gallery
+    [auth] => 1
+    [user] => admin
+    [session_id] => 0
+    [basketCount] => 4
+    [gallery] => Array
+        (
+            [0] => Array
+                (
+                    [gallery_id] => 30
+                    [gallery_filename] => 15.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 54
+                )
+
+            [1] => Array
+                (
+                    [gallery_id] => 27
+                    [gallery_filename] => 12.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 5
+                )
+
+            [2] => Array
+                (
+                    [gallery_id] => 18
+                    [gallery_filename] => 03.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 4
+                )
+
+            [3] => Array
+                (
+                    [gallery_id] => 28
+                    [gallery_filename] => 13.jpg
+                    [gallery_like] => 2
+                    [gallery_view] => 4
+                )
+
+            [4] => Array
+                (
+                    [gallery_id] => 22
+                    [gallery_filename] => 07.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 2
+                )
+
+            [5] => Array
+                (
+                    [gallery_id] => 25
+                    [gallery_filename] => 10.jpg
+                    [gallery_like] => 3
+                    [gallery_view] => 2
+                )
+
+            [6] => Array
+                (
+                    [gallery_id] => 24
+                    [gallery_filename] => 09.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 1
+                )
+
+            [7] => Array
+                (
+                    [gallery_id] => 29
+                    [gallery_filename] => 14.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 1
+                )
+
+            [8] => Array
+                (
+                    [gallery_id] => 16
+                    [gallery_filename] => 01.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [9] => Array
+                (
+                    [gallery_id] => 17
+                    [gallery_filename] => 02.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [10] => Array
+                (
+                    [gallery_id] => 19
+                    [gallery_filename] => 04.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [11] => Array
+                (
+                    [gallery_id] => 20
+                    [gallery_filename] => 05.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [12] => Array
+                (
+                    [gallery_id] => 21
+                    [gallery_filename] => 06.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [13] => Array
+                (
+                    [gallery_id] => 23
+                    [gallery_filename] => 08.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [14] => Array
+                (
+                    [gallery_id] => 26
+                    [gallery_filename] => 11.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 13:09:41
+Array
+(
+    [layout] => gallery
+    [session_id] => 0
+    [basketCount] => 4
+    [gallery] => Array
+        (
+            [0] => Array
+                (
+                    [gallery_id] => 30
+                    [gallery_filename] => 15.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 54
+                )
+
+            [1] => Array
+                (
+                    [gallery_id] => 27
+                    [gallery_filename] => 12.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 5
+                )
+
+            [2] => Array
+                (
+                    [gallery_id] => 18
+                    [gallery_filename] => 03.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 4
+                )
+
+            [3] => Array
+                (
+                    [gallery_id] => 28
+                    [gallery_filename] => 13.jpg
+                    [gallery_like] => 2
+                    [gallery_view] => 4
+                )
+
+            [4] => Array
+                (
+                    [gallery_id] => 22
+                    [gallery_filename] => 07.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 2
+                )
+
+            [5] => Array
+                (
+                    [gallery_id] => 25
+                    [gallery_filename] => 10.jpg
+                    [gallery_like] => 3
+                    [gallery_view] => 2
+                )
+
+            [6] => Array
+                (
+                    [gallery_id] => 24
+                    [gallery_filename] => 09.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 1
+                )
+
+            [7] => Array
+                (
+                    [gallery_id] => 29
+                    [gallery_filename] => 14.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 1
+                )
+
+            [8] => Array
+                (
+                    [gallery_id] => 16
+                    [gallery_filename] => 01.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [9] => Array
+                (
+                    [gallery_id] => 17
+                    [gallery_filename] => 02.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [10] => Array
+                (
+                    [gallery_id] => 19
+                    [gallery_filename] => 04.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [11] => Array
+                (
+                    [gallery_id] => 20
+                    [gallery_filename] => 05.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [12] => Array
+                (
+                    [gallery_id] => 21
+                    [gallery_filename] => 06.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [13] => Array
+                (
+                    [gallery_id] => 23
+                    [gallery_filename] => 08.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [14] => Array
+                (
+                    [gallery_id] => 26
+                    [gallery_filename] => 11.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 13:51:15
+Array
+(
+    [layout] => gallery
+    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+    [basketCount] => 
+    [gallery] => Array
+        (
+            [0] => Array
+                (
+                    [gallery_id] => 30
+                    [gallery_filename] => 15.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 54
+                )
+
+            [1] => Array
+                (
+                    [gallery_id] => 27
+                    [gallery_filename] => 12.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 5
+                )
+
+            [2] => Array
+                (
+                    [gallery_id] => 18
+                    [gallery_filename] => 03.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 4
+                )
+
+            [3] => Array
+                (
+                    [gallery_id] => 28
+                    [gallery_filename] => 13.jpg
+                    [gallery_like] => 2
+                    [gallery_view] => 4
+                )
+
+            [4] => Array
+                (
+                    [gallery_id] => 22
+                    [gallery_filename] => 07.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 2
+                )
+
+            [5] => Array
+                (
+                    [gallery_id] => 25
+                    [gallery_filename] => 10.jpg
+                    [gallery_like] => 3
+                    [gallery_view] => 2
+                )
+
+            [6] => Array
+                (
+                    [gallery_id] => 24
+                    [gallery_filename] => 09.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 1
+                )
+
+            [7] => Array
+                (
+                    [gallery_id] => 29
+                    [gallery_filename] => 14.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 1
+                )
+
+            [8] => Array
+                (
+                    [gallery_id] => 16
+                    [gallery_filename] => 01.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [9] => Array
+                (
+                    [gallery_id] => 17
+                    [gallery_filename] => 02.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [10] => Array
+                (
+                    [gallery_id] => 19
+                    [gallery_filename] => 04.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [11] => Array
+                (
+                    [gallery_id] => 20
+                    [gallery_filename] => 05.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [12] => Array
+                (
+                    [gallery_id] => 21
+                    [gallery_filename] => 06.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [13] => Array
+                (
+                    [gallery_id] => 23
+                    [gallery_filename] => 08.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [14] => Array
+                (
+                    [gallery_id] => 26
+                    [gallery_filename] => 11.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 14:02:11
+Array
+(
+    [layout] => gallery
+    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+    [basketCount] => 3
+    [gallery] => Array
+        (
+            [0] => Array
+                (
+                    [gallery_id] => 30
+                    [gallery_filename] => 15.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 54
+                )
+
+            [1] => Array
+                (
+                    [gallery_id] => 27
+                    [gallery_filename] => 12.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 5
+                )
+
+            [2] => Array
+                (
+                    [gallery_id] => 18
+                    [gallery_filename] => 03.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 4
+                )
+
+            [3] => Array
+                (
+                    [gallery_id] => 28
+                    [gallery_filename] => 13.jpg
+                    [gallery_like] => 2
+                    [gallery_view] => 4
+                )
+
+            [4] => Array
+                (
+                    [gallery_id] => 22
+                    [gallery_filename] => 07.jpg
+                    [gallery_like] => 1
+                    [gallery_view] => 2
+                )
+
+            [5] => Array
+                (
+                    [gallery_id] => 25
+                    [gallery_filename] => 10.jpg
+                    [gallery_like] => 3
+                    [gallery_view] => 2
+                )
+
+            [6] => Array
+                (
+                    [gallery_id] => 24
+                    [gallery_filename] => 09.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 1
+                )
+
+            [7] => Array
+                (
+                    [gallery_id] => 29
+                    [gallery_filename] => 14.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 1
+                )
+
+            [8] => Array
+                (
+                    [gallery_id] => 16
+                    [gallery_filename] => 01.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [9] => Array
+                (
+                    [gallery_id] => 17
+                    [gallery_filename] => 02.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [10] => Array
+                (
+                    [gallery_id] => 19
+                    [gallery_filename] => 04.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [11] => Array
+                (
+                    [gallery_id] => 20
+                    [gallery_filename] => 05.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [12] => Array
+                (
+                    [gallery_id] => 21
+                    [gallery_filename] => 06.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [13] => Array
+                (
+                    [gallery_id] => 23
+                    [gallery_filename] => 08.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+            [14] => Array
+                (
+                    [gallery_id] => 26
+                    [gallery_filename] => 11.jpg
+                    [gallery_like] => 0
+                    [gallery_view] => 0
+                )
+
+        )
+
+)
+
+
+

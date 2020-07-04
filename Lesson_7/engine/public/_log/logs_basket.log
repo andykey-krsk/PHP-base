@@ -1,0 +1,1935 @@
+### 03.07.2020 13:02:26
+Array
+(
+    [layout] => main
+    [session_id] => 0
+    [basketCount] => 11
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 6
+                    [good_price] => 2
+                    [session_id] => 0
+                    [name] => Мангал
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [good_id] => 2
+                    [good_quantyti] => 2
+                    [good_price] => 3
+                    [session_id] => 0
+                    [name] => Щепа д/копчения
+                )
+
+            [2] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 0
+                    [name] => Гель Супер Момент
+                )
+
+            [3] => Array
+                (
+                    [id] => 6
+                    [good_id] => 6
+                    [good_quantyti] => 1
+                    [good_price] => 160
+                    [session_id] => 0
+                    [name] => Ведро строительное пластиковое
+                )
+
+        )
+
+)
+
+
+
+### 03.07.2020 13:03:35
+Array
+(
+    [layout] => main
+    [session_id] => 0
+    [basketCount] => 11
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 6
+                    [good_price] => 2
+                    [session_id] => 0
+                    [name] => Мангал
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [good_id] => 2
+                    [good_quantyti] => 2
+                    [good_price] => 3
+                    [session_id] => 0
+                    [name] => Щепа д/копчения
+                )
+
+            [2] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 0
+                    [name] => Гель Супер Момент
+                )
+
+            [3] => Array
+                (
+                    [id] => 6
+                    [good_id] => 6
+                    [good_quantyti] => 1
+                    [good_price] => 160
+                    [session_id] => 0
+                    [name] => Ведро строительное пластиковое
+                )
+
+        )
+
+)
+
+
+
+### 03.07.2020 13:05:49
+Array
+(
+    [layout] => main
+    [session_id] => 0
+    [basketCount] => 10
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 6
+                    [good_price] => 2
+                    [session_id] => 0
+                    [name] => Мангал
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [good_id] => 2
+                    [good_quantyti] => 2
+                    [good_price] => 3
+                    [session_id] => 0
+                    [name] => Щепа д/копчения
+                )
+
+            [2] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 0
+                    [name] => Гель Супер Момент
+                )
+
+            [3] => Array
+                (
+                    [id] => 6
+                    [good_id] => 6
+                    [good_quantyti] => 1
+                    [good_price] => 160
+                    [session_id] => 0
+                    [name] => Ведро строительное пластиковое
+                )
+
+        )
+
+)
+
+
+
+### 03.07.2020 13:06:12
+Array
+(
+    [layout] => main
+    [session_id] => 0
+    [basketCount] => 11
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 6
+                    [good_price] => 2
+                    [session_id] => 0
+                    [name] => Мангал
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [good_id] => 2
+                    [good_quantyti] => 2
+                    [good_price] => 3
+                    [session_id] => 0
+                    [name] => Щепа д/копчения
+                )
+
+            [2] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 0
+                    [name] => Гель Супер Момент
+                )
+
+            [3] => Array
+                (
+                    [id] => 6
+                    [good_id] => 6
+                    [good_quantyti] => 2
+                    [good_price] => 160
+                    [session_id] => 0
+                    [name] => Ведро строительное пластиковое
+                )
+
+        )
+
+)
+
+
+
+### 03.07.2020 13:14:13
+Array
+(
+    [layout] => main
+    [session_id] => 0
+    [basketCount] => 11
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 6
+                    [good_price] => 2
+                    [session_id] => 0
+                    [name] => Мангал
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [good_id] => 2
+                    [good_quantyti] => 2
+                    [good_price] => 3
+                    [session_id] => 0
+                    [name] => Щепа д/копчения
+                )
+
+            [2] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 0
+                    [name] => Гель Супер Момент
+                )
+
+            [3] => Array
+                (
+                    [id] => 6
+                    [good_id] => 6
+                    [good_quantyti] => 2
+                    [good_price] => 160
+                    [session_id] => 0
+                    [name] => Ведро строительное пластиковое
+                )
+
+        )
+
+)
+
+
+
+### 03.07.2020 13:16:12
+Array
+(
+    [layout] => main
+    [session_id] => 0
+    [basketCount] => 11
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 6
+                    [good_price] => 2
+                    [session_id] => 0
+                    [name] => Мангал
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [good_id] => 2
+                    [good_quantyti] => 2
+                    [good_price] => 3
+                    [session_id] => 0
+                    [name] => Щепа д/копчения
+                )
+
+            [2] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 0
+                    [name] => Гель Супер Момент
+                )
+
+            [3] => Array
+                (
+                    [id] => 6
+                    [good_id] => 6
+                    [good_quantyti] => 2
+                    [good_price] => 160
+                    [session_id] => 0
+                    [name] => Ведро строительное пластиковое
+                )
+
+        )
+
+)
+
+
+
+### 03.07.2020 13:16:34
+Array
+(
+    [layout] => main
+    [session_id] => 0
+    [basketCount] => 11
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 6
+                    [good_price] => 2
+                    [session_id] => 0
+                    [name] => Мангал
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [good_id] => 2
+                    [good_quantyti] => 2
+                    [good_price] => 3
+                    [session_id] => 0
+                    [name] => Щепа д/копчения
+                )
+
+            [2] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 0
+                    [name] => Гель Супер Момент
+                )
+
+            [3] => Array
+                (
+                    [id] => 6
+                    [good_id] => 6
+                    [good_quantyti] => 2
+                    [good_price] => 160
+                    [session_id] => 0
+                    [name] => Ведро строительное пластиковое
+                )
+
+        )
+
+)
+
+
+
+### 03.07.2020 13:17:00
+Array
+(
+    [layout] => main
+    [session_id] => 0
+    [basketCount] => 11
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 6
+                    [good_price] => 2
+                    [session_id] => 0
+                    [name] => Мангал
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [good_id] => 2
+                    [good_quantyti] => 2
+                    [good_price] => 3
+                    [session_id] => 0
+                    [name] => Щепа д/копчения
+                )
+
+            [2] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 0
+                    [name] => Гель Супер Момент
+                )
+
+            [3] => Array
+                (
+                    [id] => 6
+                    [good_id] => 6
+                    [good_quantyti] => 2
+                    [good_price] => 160
+                    [session_id] => 0
+                    [name] => Ведро строительное пластиковое
+                )
+
+        )
+
+)
+
+
+
+### 03.07.2020 13:20:20
+Array
+(
+    [layout] => main
+    [session_id] => 0
+    [basketCount] => 11
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 6
+                    [good_price] => 2
+                    [session_id] => 0
+                    [name] => Мангал
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [good_id] => 2
+                    [good_quantyti] => 2
+                    [good_price] => 3
+                    [session_id] => 0
+                    [name] => Щепа д/копчения
+                )
+
+            [2] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 0
+                    [name] => Гель Супер Момент
+                )
+
+            [3] => Array
+                (
+                    [id] => 6
+                    [good_id] => 6
+                    [good_quantyti] => 2
+                    [good_price] => 160
+                    [session_id] => 0
+                    [name] => Ведро строительное пластиковое
+                )
+
+        )
+
+)
+
+
+
+### 03.07.2020 13:20:48
+Array
+(
+    [layout] => main
+    [session_id] => 0
+    [basketCount] => 11
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 6
+                    [good_price] => 2
+                    [session_id] => 0
+                    [name] => Мангал
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [good_id] => 2
+                    [good_quantyti] => 2
+                    [good_price] => 3
+                    [session_id] => 0
+                    [name] => Щепа д/копчения
+                )
+
+            [2] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 0
+                    [name] => Гель Супер Момент
+                )
+
+            [3] => Array
+                (
+                    [id] => 6
+                    [good_id] => 6
+                    [good_quantyti] => 2
+                    [good_price] => 160
+                    [session_id] => 0
+                    [name] => Ведро строительное пластиковое
+                )
+
+        )
+
+)
+
+
+
+### 03.07.2020 13:21:01
+Array
+(
+    [layout] => main
+    [session_id] => 0
+    [basketCount] => 11
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 6
+                    [good_price] => 2
+                    [session_id] => 0
+                    [name] => Мангал
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [good_id] => 2
+                    [good_quantyti] => 2
+                    [good_price] => 3
+                    [session_id] => 0
+                    [name] => Щепа д/копчения
+                )
+
+            [2] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 0
+                    [name] => Гель Супер Момент
+                )
+
+            [3] => Array
+                (
+                    [id] => 6
+                    [good_id] => 6
+                    [good_quantyti] => 2
+                    [good_price] => 160
+                    [session_id] => 0
+                    [name] => Ведро строительное пластиковое
+                )
+
+        )
+
+)
+
+
+
+### 03.07.2020 13:27:15
+Array
+(
+    [layout] => main
+    [session_id] => 0
+    [basketCount] => 11
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 6
+                    [good_price] => 2
+                    [session_id] => 0
+                    [name] => Мангал
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [good_id] => 2
+                    [good_quantyti] => 2
+                    [good_price] => 3
+                    [session_id] => 0
+                    [name] => Щепа д/копчения
+                )
+
+            [2] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 0
+                    [name] => Гель Супер Момент
+                )
+
+            [3] => Array
+                (
+                    [id] => 6
+                    [good_id] => 6
+                    [good_quantyti] => 2
+                    [good_price] => 160
+                    [session_id] => 0
+                    [name] => Ведро строительное пластиковое
+                )
+
+        )
+
+)
+
+
+
+### 03.07.2020 13:27:23
+Array
+(
+    [layout] => main
+    [session_id] => 0
+    [basketCount] => 11
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [good_id] => 2
+                    [good_quantyti] => 2
+                    [good_price] => 3
+                    [session_id] => 0
+                    [name] => Щепа д/копчения
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 0
+                    [name] => Гель Супер Момент
+                )
+
+            [2] => Array
+                (
+                    [id] => 6
+                    [good_id] => 6
+                    [good_quantyti] => 2
+                    [good_price] => 160
+                    [session_id] => 0
+                    [name] => Ведро строительное пластиковое
+                )
+
+        )
+
+)
+
+
+
+### 03.07.2020 13:27:25
+Array
+(
+    [layout] => main
+    [session_id] => 0
+    [basketCount] => 5
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [good_id] => 2
+                    [good_quantyti] => 2
+                    [good_price] => 3
+                    [session_id] => 0
+                    [name] => Щепа д/копчения
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 0
+                    [name] => Гель Супер Момент
+                )
+
+            [2] => Array
+                (
+                    [id] => 6
+                    [good_id] => 6
+                    [good_quantyti] => 2
+                    [good_price] => 160
+                    [session_id] => 0
+                    [name] => Ведро строительное пластиковое
+                )
+
+        )
+
+)
+
+
+
+### 03.07.2020 13:27:41
+Array
+(
+    [layout] => main
+    [session_id] => 0
+    [basketCount] => 5
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 0
+                    [name] => Гель Супер Момент
+                )
+
+            [1] => Array
+                (
+                    [id] => 6
+                    [good_id] => 6
+                    [good_quantyti] => 2
+                    [good_price] => 160
+                    [session_id] => 0
+                    [name] => Ведро строительное пластиковое
+                )
+
+        )
+
+)
+
+
+
+### 03.07.2020 13:27:43
+Array
+(
+    [layout] => main
+    [session_id] => 0
+    [basketCount] => 3
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 0
+                    [name] => Гель Супер Момент
+                )
+
+            [1] => Array
+                (
+                    [id] => 6
+                    [good_id] => 6
+                    [good_quantyti] => 2
+                    [good_price] => 160
+                    [session_id] => 0
+                    [name] => Ведро строительное пластиковое
+                )
+
+        )
+
+)
+
+
+
+### 03.07.2020 13:28:10
+Array
+(
+    [layout] => main
+    [session_id] => 0
+    [basketCount] => 4
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 0
+                    [name] => Гель Супер Момент
+                )
+
+            [1] => Array
+                (
+                    [id] => 6
+                    [good_id] => 6
+                    [good_quantyti] => 2
+                    [good_price] => 160
+                    [session_id] => 0
+                    [name] => Ведро строительное пластиковое
+                )
+
+            [2] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 1
+                    [good_price] => 250
+                    [session_id] => 0
+                    [name] => Мангал
+                )
+
+        )
+
+)
+
+
+
+### 03.07.2020 21:12:06
+Array
+(
+    [layout] => main
+    [session_id] => 0
+    [basketCount] => 4
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 0
+                    [name] => Гель Супер Момент
+                )
+
+            [1] => Array
+                (
+                    [id] => 6
+                    [good_id] => 6
+                    [good_quantyti] => 2
+                    [good_price] => 160
+                    [session_id] => 0
+                    [name] => Ведро строительное пластиковое
+                )
+
+            [2] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 1
+                    [good_price] => 250
+                    [session_id] => 0
+                    [name] => Мангал
+                )
+
+        )
+
+)
+
+
+
+### 03.07.2020 21:12:45
+Array
+(
+    [layout] => main
+    [session_id] => 0
+    [basketCount] => 4
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 0
+                    [name] => Гель Супер Момент
+                )
+
+            [1] => Array
+                (
+                    [id] => 6
+                    [good_id] => 6
+                    [good_quantyti] => 2
+                    [good_price] => 160
+                    [session_id] => 0
+                    [name] => Ведро строительное пластиковое
+                )
+
+            [2] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 1
+                    [good_price] => 250
+                    [session_id] => 0
+                    [name] => Мангал
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 09:18:48
+Array
+(
+    [layout] => main
+    [session_id] => 0
+    [basketCount] => 4
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 0
+                    [name] => Гель Супер Момент
+                )
+
+            [1] => Array
+                (
+                    [id] => 6
+                    [good_id] => 6
+                    [good_quantyti] => 2
+                    [good_price] => 160
+                    [session_id] => 0
+                    [name] => Ведро строительное пластиковое
+                )
+
+            [2] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 1
+                    [good_price] => 250
+                    [session_id] => 0
+                    [name] => Мангал
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 09:33:03
+Array
+(
+    [layout] => main
+    [session_id] => 0
+    [basketCount] => 4
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 0
+                    [name] => Гель Супер Момент
+                )
+
+            [1] => Array
+                (
+                    [id] => 6
+                    [good_id] => 6
+                    [good_quantyti] => 2
+                    [good_price] => 160
+                    [session_id] => 0
+                    [name] => Ведро строительное пластиковое
+                )
+
+            [2] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 1
+                    [good_price] => 250
+                    [session_id] => 0
+                    [name] => Мангал
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 09:34:47
+Array
+(
+    [layout] => main
+    [session_id] => 0
+    [basketCount] => 4
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 0
+                    [name] => Гель Супер Момент
+                )
+
+            [1] => Array
+                (
+                    [id] => 6
+                    [good_id] => 6
+                    [good_quantyti] => 2
+                    [good_price] => 160
+                    [session_id] => 0
+                    [name] => Ведро строительное пластиковое
+                )
+
+            [2] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 1
+                    [good_price] => 250
+                    [session_id] => 0
+                    [name] => Мангал
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 14:02:18
+Array
+(
+    [layout] => main
+    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+    [basketCount] => 3
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 3
+                    [good_price] => 250
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Мангал
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 14:02:26
+Array
+(
+    [layout] => main
+    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+    [basketCount] => 3
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 3
+                    [good_price] => 250
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Мангал
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 14:02:28
+Array
+(
+    [layout] => main
+    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+    [basketCount] => 3
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 3
+                    [good_price] => 250
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Мангал
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 14:13:27
+Array
+(
+    [layout] => main
+    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+    [basketCount] => 6
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 4
+                    [good_price] => 250
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Мангал
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [good_id] => 2
+                    [good_quantyti] => 1
+                    [good_price] => 120
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Щепа д/копчения
+                )
+
+            [2] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Гель Супер Момент
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 14:13:46
+Array
+(
+    [layout] => main
+    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+    [basketCount] => 6
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 4
+                    [good_price] => 250
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Мангал
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [good_id] => 2
+                    [good_quantyti] => 1
+                    [good_price] => 120
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Щепа д/копчения
+                )
+
+            [2] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Гель Супер Момент
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 14:13:49
+Array
+(
+    [layout] => main
+    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+    [basketCount] => 6
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 4
+                    [good_price] => 250
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Мангал
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [good_id] => 2
+                    [good_quantyti] => 1
+                    [good_price] => 120
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Щепа д/копчения
+                )
+
+            [2] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Гель Супер Момент
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 14:19:33
+Array
+(
+    [layout] => main
+    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+    [basketCount] => 6
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 4
+                    [good_price] => 250
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Мангал
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [good_id] => 2
+                    [good_quantyti] => 1
+                    [good_price] => 120
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Щепа д/копчения
+                )
+
+            [2] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Гель Супер Момент
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 14:19:38
+Array
+(
+    [layout] => main
+    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+    [basketCount] => 6
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 4
+                    [good_price] => 250
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Мангал
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [good_id] => 2
+                    [good_quantyti] => 1
+                    [good_price] => 120
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Щепа д/копчения
+                )
+
+            [2] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Гель Супер Момент
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 14:19:48
+Array
+(
+    [layout] => main
+    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+    [basketCount] => 6
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 4
+                    [good_price] => 250
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Мангал
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [good_id] => 2
+                    [good_quantyti] => 1
+                    [good_price] => 120
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Щепа д/копчения
+                )
+
+            [2] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Гель Супер Момент
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 14:19:56
+Array
+(
+    [layout] => main
+    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+    [basketCount] => 6
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 4
+                    [good_price] => 250
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Мангал
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [good_id] => 2
+                    [good_quantyti] => 1
+                    [good_price] => 120
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Щепа д/копчения
+                )
+
+            [2] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Гель Супер Момент
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 14:19:58
+Array
+(
+    [layout] => main
+    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+    [basketCount] => 6
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 4
+                    [good_price] => 250
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Мангал
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [good_id] => 2
+                    [good_quantyti] => 1
+                    [good_price] => 120
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Щепа д/копчения
+                )
+
+            [2] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Гель Супер Момент
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 14:20:11
+Array
+(
+    [layout] => main
+    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+    [basketCount] => 6
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 4
+                    [good_price] => 250
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Мангал
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [good_id] => 2
+                    [good_quantyti] => 1
+                    [good_price] => 120
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Щепа д/копчения
+                )
+
+            [2] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Гель Супер Момент
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 14:21:55
+Array
+(
+    [layout] => main
+    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+    [basketCount] => 6
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 4
+                    [good_price] => 250
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Мангал
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [good_id] => 2
+                    [good_quantyti] => 1
+                    [good_price] => 120
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Щепа д/копчения
+                )
+
+            [2] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Гель Супер Момент
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 14:23:22
+Array
+(
+    [layout] => main
+    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+    [basketCount] => 6
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [good_id] => 1
+                    [good_quantyti] => 4
+                    [good_price] => 250
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Мангал
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [good_id] => 2
+                    [good_quantyti] => 1
+                    [good_price] => 120
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Щепа д/копчения
+                )
+
+            [2] => Array
+                (
+                    [id] => 5
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [name] => Гель Супер Момент
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 14:27:57
+Array
+(
+    [layout] => main
+    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+    [basketCount] => 6
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 8
+                    [good_id] => 1
+                    [good_quantyti] => 4
+                    [good_price] => 250
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [id] => 1
+                    [name] => Мангал
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 9
+                    [good_id] => 2
+                    [good_quantyti] => 1
+                    [good_price] => 120
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [id] => 2
+                    [name] => Щепа д/копчения
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 10
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [id] => 5
+                    [name] => Гель Супер Момент
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 14:28:20
+Array
+(
+    [layout] => main
+    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+    [basketCount] => 6
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 8
+                    [good_id] => 1
+                    [good_quantyti] => 4
+                    [good_price] => 250
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [id] => 1
+                    [name] => Мангал
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 9
+                    [good_id] => 2
+                    [good_quantyti] => 1
+                    [good_price] => 120
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [id] => 2
+                    [name] => Щепа д/копчения
+                )
+
+            [2] => Array
+                (
+                    [basket_id] => 10
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [id] => 5
+                    [name] => Гель Супер Момент
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 14:28:24
+Array
+(
+    [layout] => main
+    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+    [basketCount] => 6
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 9
+                    [good_id] => 2
+                    [good_quantyti] => 1
+                    [good_price] => 120
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [id] => 2
+                    [name] => Щепа д/копчения
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 10
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [id] => 5
+                    [name] => Гель Супер Момент
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 14:28:27
+Array
+(
+    [layout] => main
+    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+    [basketCount] => 2
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 9
+                    [good_id] => 2
+                    [good_quantyti] => 1
+                    [good_price] => 120
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [id] => 2
+                    [name] => Щепа д/копчения
+                )
+
+            [1] => Array
+                (
+                    [basket_id] => 10
+                    [good_id] => 5
+                    [good_quantyti] => 1
+                    [good_price] => 50
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [id] => 5
+                    [name] => Гель Супер Момент
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 14:28:32
+Array
+(
+    [layout] => main
+    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+    [basketCount] => 2
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 9
+                    [good_id] => 2
+                    [good_quantyti] => 1
+                    [good_price] => 120
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [id] => 2
+                    [name] => Щепа д/копчения
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 14:28:34
+Array
+(
+    [layout] => main
+    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+    [basketCount] => 1
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 9
+                    [good_id] => 2
+                    [good_quantyti] => 1
+                    [good_price] => 120
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [id] => 2
+                    [name] => Щепа д/копчения
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 14:28:40
+Array
+(
+    [layout] => main
+    [auth] => 1
+    [user] => admin
+    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+    [basketCount] => 1
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 9
+                    [good_id] => 2
+                    [good_quantyti] => 1
+                    [good_price] => 120
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [id] => 2
+                    [name] => Щепа д/копчения
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 14:28:43
+Array
+(
+    [layout] => main
+    [auth] => 1
+    [user] => admin
+    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+    [basketCount] => 1
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 9
+                    [good_id] => 2
+                    [good_quantyti] => 1
+                    [good_price] => 120
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [id] => 2
+                    [name] => Щепа д/копчения
+                )
+
+        )
+
+)
+
+
+
+### 04.07.2020 14:28:47
+Array
+(
+    [layout] => main
+    [auth] => 1
+    [user] => admin
+    [session_id] => 
+    [basketCount] => 
+    [basket] => Array
+        (
+        )
+
+)
+
+
+
+### 04.07.2020 14:28:50
+Array
+(
+    [layout] => main
+    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+    [basketCount] => 1
+    [basket] => Array
+        (
+            [0] => Array
+                (
+                    [basket_id] => 9
+                    [good_id] => 2
+                    [good_quantyti] => 1
+                    [good_price] => 120
+                    [session_id] => 9dvft9us5rgl4ceepcts6usneslftrmi
+                    [id] => 2
+                    [name] => Щепа д/копчения
+                )
+
+        )
+
+)
+
+
+

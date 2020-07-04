@@ -4,7 +4,15 @@
 //для подстановки их в соотвествующий шаблон
 function prepareVariables($page, $action)
 {
-    $params['layout'] = 'main';;
+    $params['layout'] = 'main';
+
+    if (isAuth()) {
+        $params['auth'] = true;
+        $params['user'] = getUser();
+    }
+
+    processingBasket($params);
+
     switch ($page) {
         case 'index':
             break;
@@ -48,6 +56,16 @@ function prepareVariables($page, $action)
             $params['layout'] = 'main';
             $params['feedback'] = getFeedback($page, 0);
             $params['page_id'] = 0;
+            _log($params, 'feedback');
+            break;
+        case 'basket':
+            $params['layout'] = 'main';
+            if (isset($_GET['id'])) {
+                delToBasket((int)$_GET['id']);
+                header("Location: ?message=OK");
+            }
+            $params['basket'] = getBasket($params['session_id']);
+            _log($params, 'basket');
             break;
     }
     return $params;

@@ -13,6 +13,8 @@ define('PASS', '12345');
 define('DB', 'shop');
 
 include ROOT . "/engine/db.php";
+include ROOT . "/engine/auth.php";
+include ROOT . "/engine/registration.php";
 include ROOT . "/engine/functions.php";
 include ROOT . "/engine/news.php";
 include ROOT . "/engine/log.php";
@@ -20,3 +22,4 @@ include ROOT . "/engine/upload.php";
 include ROOT . "/engine/gallery.php";
 include ROOT . "/engine/catalog.php";
 include ROOT . "/engine/feedback.php";
+include ROOT . "/engine/basket.php";

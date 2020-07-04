@@ -30,14 +30,6 @@ function getAssocResult($sql)
     return $array_result;
 }
 
-function addToDB($filename)
-{
-    $db = getDb();
-    $filename = mysqli_real_escape_string($db, $filename);
-    $sql = "INSERT INTO gallery(`gallery_filename`) VALUES ('$filename')";
-    @mysqli_query($db, $sql) or die(mysqli_error($db));
-}
-
 //update and delete
 function executeSql($sql)
 {

@@ -8,6 +8,14 @@ function getOneImage(int $id)
     return getAssocResult("SELECT * FROM gallery WHERE gallery_id = {$id}");
 }
 
+function addToDB($filename)
+{
+    $db = getDb();
+    $filename = mysqli_real_escape_string($db, $filename);
+    $sql = "INSERT INTO gallery(`gallery_filename`) VALUES ('$filename')";
+    @mysqli_query($db, $sql) or die(mysqli_error($db));
+}
+
 function loadImage(){
 
     if (isset($_POST['load'])) {
