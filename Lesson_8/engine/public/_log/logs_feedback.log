@@ -1,0 +1,50 @@
+### 03.07.2020 12:05:47
+Array
+(
+    [layout] => main
+    [session_id] => 0
+    [basketCount] => 11
+    [action] => add
+    [buttonText] => Добавить
+    [feedback_name] => 
+    [content] => 
+    [id_feed] => 
+    [feedback] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 30
+                    [feedback_name] => sdfsdf
+                    [content] => sdfsdf поправил xcv 
+                    [page] => feedback
+                    [page_id] => 0
+                    [feedback_date] => 2020-07-02 18:42:11
+                )
+
+            [1] => Array
+                (
+                    [id] => 29
+                    [feedback_name] => wer
+                    [content] => werwer
+                    [page] => feedback
+                    [page_id] => 0
+                    [feedback_date] => 2020-07-02 18:09:09
+                )
+
+            [2] => Array
+                (
+                    [id] => 28
+                    [feedback_name] => werwerwer
+                    [content] => Отправwerwerить
+                    [page] => feedback
+                    [page_id] => 0
+                    [feedback_date] => 2020-07-02 18:09:01
+                )
+
+        )
+
+    [page_id] => 0
+)
+
+
+
